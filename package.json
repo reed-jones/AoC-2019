@@ -1,0 +1,6 @@
+{
+    "private": true,
+    "workspaces": [
+        "day-1/puzzle-1"
+    ]
+  }
