@@ -2,6 +2,8 @@
     "private": true,
     "workspaces": [
         "day-1/puzzle-1",
-        "day-1/puzzle-2"
+        "day-1/puzzle-2",
+        "day-2/puzzle-1",
+        "day-2/puzzle-2"
     ]
   }
