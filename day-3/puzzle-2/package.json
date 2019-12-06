@@ -1,0 +1,16 @@
+{
+  "name": "day-3_puzzle-1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  },
+  "dependencies": {
+    "esm": "^3.2.25"
+  },
+  "scripts": {
+    "test": "node -r esm ./node_modules/.bin/jest",
+    "start": "node esm.js"
+  }
+}
